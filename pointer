@@ -9,21 +9,6 @@
       body {
         background: #FFFFFF;[oisuehc jncs]csd jkcnsd bsd
 c [sdclksdjkl sdnclsdnkc s]
-as cklasc paojc a;
- c
-saco[ jaspocjavpojd 
-[hkkiuijmj]
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
