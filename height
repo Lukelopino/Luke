@@ -5,21 +5,6 @@ ext_defaults_md.css">
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defau
     <style>
-        top: 0;
-        visibility: hidden;script>
-<!doctype html>fuf
-<html dir="ltr" lang="en">tuttu
-  <head>
-    <meta charset="utf-8">fu
-    <title>New Tab</title>
-    <style>fjfu
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
-
-      #backgroundImage {
-        border: none;
         height: 100%;
         pointer-events: none;
         position: fixed;
