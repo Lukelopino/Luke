@@ -8,16 +8,7 @@ ext_defaults_md.css">
         height: 100%;
         pointer-events: none;
         position: fixed;hrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
-
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
+    <link rel="stylesheet" href="chrome://theme/colors.cs
       body {
         background: #FFFFFF;
         margin: 0;
