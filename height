@@ -10,17 +10,6 @@ ext_defaults_md.css">
         position: fixed;hrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.cs
       body {
-        background: #FFFFFF;
-        margin: 0;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
     </style>
   </head>
   <body>
