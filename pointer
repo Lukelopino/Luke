@@ -1,15 +1,4 @@
 
-<!doctype html>
-    <style>
-      body {
-        background: #FFFFFF;ddvdv
-      }
-
-      #backgroundImage {sdvvds
-        border: none;
-        visibility: hidden;
-        width: 100%;
-      }
 
       [show-background-image] #backgroundImage {
         visibility: visible;
