@@ -4,14 +4,6 @@ ext_defaults_md.css">
 <html dir="ltr" lang="en
         position: fixed;
         top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
