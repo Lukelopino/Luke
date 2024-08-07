@@ -3,11 +3,6 @@
     <meta charset="utf-8">
     <title>New Tab</title>
     <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      
-        pointer-events: none;
         position: fixed;
         top: 0;
         visibility: hidden;
