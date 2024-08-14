@@ -1,16 +1,4 @@
 
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-        position: fixed;
-        top: 0;
-  </body>
-</html>
-        background: #FFFFFF;
-        margin: 0;
-      }
-
       #backgroundImage {
         border: none;
         height: 100%;
