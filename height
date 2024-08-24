@@ -2,17 +2,6 @@ ext_defaults_md.css">
         background: #FFFFFF;me://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
     <title>New Tab</title>
-    <style>
-      body {
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
