@@ -2,33 +2,19 @@ ext_defaults_md.css">
         background: #FFFFFF;me://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
     <title>New Tab</title>
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
-<!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
+  </head>FGJHFGH
       }
 
-      #backgroundImage {
-        border: none;
+      #backgroundImage {GH
+        border: none;FGHGHFGH
         height: 100%;
-        pointer-events: none;
-        position: fixed;
-        top: 0;
+        pointer-events: none;GH
+        top: 0FGHGH
         visibility: hidden;
         width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
+      }H
+GHH
+      }GH
     </style>
   </head>
   <body>
