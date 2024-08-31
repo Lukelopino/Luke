@@ -3,25 +3,17 @@
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>DFG
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome"
+    <link rel="stylesheet" href="chrome://resourcesjh
+        top: 0;gjhg
+        visibility: hidden;jh
+        width: 100%;ghjghjh
       }
 
-      #backgroundImage {
-        border: none;
-        height: 100%;
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
+      [show-background-image] #backgroundImage {jjhj
+        visibility: visible;jh
+      }jghjghj
     </style>
-  </head>
+  </head>hjgh
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
