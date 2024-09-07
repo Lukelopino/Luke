@@ -1,25 +1,4 @@
 ext_defaults_md.css">
-      #backgroundImage {FH
-        height: 100%;
-        pointer-events: noneHF;
-        position: fixed;H
-        top: 0;dfs
-        visibility: hidden;
-        width: 100%;
-      }fsdsd
-      [show-background-image] #backgrosdfsdfundImage {sdfsdf
-      }dssd
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>sdfsdf
-    <ntp-app></ntp-app>dfsults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">sdfsdf
-  </body>
-</html>sdf
-sdf
-<!doctype html>sdf
-<html dir="ltr" lang="en">
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
